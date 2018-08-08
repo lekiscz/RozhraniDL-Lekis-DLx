@@ -10,11 +10,16 @@ dokumentace, příklady
 
 Adresář [Documentation](Documentation) obsahuje dokumentaci k rozhraní Lekis DLx ve formátu Markdown.
 
+Jsou v něm samostatné soubory popisující jednotlivé verze rozhraní:
+
+* [Lekis DL7](Documentation/RozhraniDL-Lekis-DL7.md)
+* [Lekis DL6](Documentation/RozhraniDL-Lekis-DL6.md)
+
 ## Příklady
 
 Několik příkladů je k dispozici v adresáři [Examples](Examples).
 
-Jsou rozdělené na adresáře pro jednotlivé verze rozhraní (DL6, ...).
+Jsou rozdělené na adresáře pro jednotlivé verze rozhraní (DL6, DL7, ...).
 
 ## Novější rozhraní Lekis XML
 
